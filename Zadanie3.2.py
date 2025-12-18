@@ -11,3 +11,5 @@ for key, value in shopping_list.items():
     sum += len(value)
 
 print(f"W sumie kupuję {sum} produktów.")
+
+print("Pozdrowienia z nowej gałęzi: 'new_branch'")
